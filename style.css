@@ -55,7 +55,7 @@ img{
 .sidebar-container{
 	height: 100%;
 	width: 100%;
-	background: #111;
+	background: #fff;
 	border-radius: 20px;
 	box-shadow: var(--shadow);
 	padding: 1.2rem;
