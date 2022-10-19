@@ -19,7 +19,7 @@
 }
 
 body{
-	background: yellow;
+	background: salmon;
 	overflow-x: hidden;
 }
 
@@ -116,7 +116,7 @@ img{
 	border: 2px solid var(--main-accent);
 	padding: .1rem .7rem;
 	border-radius: 7px;
-	margin: 2rem 0rem;
+	margin: 3rem 0rem;
 }
 
 .avartar-info{
